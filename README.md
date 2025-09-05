@@ -6,3 +6,5 @@ Isto é apenas um repositório de arquivos para testes e salvar algumas coisas.
 -Correção no código -> State Machine Mais organzado.
 
 -Troca dos botões de SETA do teclado para A,W,S,D como padrão de movimento. 
+
+-Animação de ataque com espada e melhoria na organização do código adicionadas
